@@ -1,0 +1,15 @@
+{
+    "manifest": [{
+        "url": "https://mineshaft.zach.network/4ccc8279-001a-440d-acc4-547ec51610ef.fasta",
+        "filename": "zach.fasta",
+        "edam": "http://edamontology.org/format_2330"
+    }, {
+        "url": "https://mineshaft.zach.network/ee8fc566-e416-4903-aaa7-9fce84fcd539.fasta",
+        "filename": "jet.fasta",
+        "edam": "http://edamontology.org/format_2330"
+    }, {
+        "url": "https://mineshaft.zach.network/49bc7acc-419a-47a0-9086-b4011e82f55d.sbol",
+        "filename": "zach.sbol",
+        "edam": "http://edamontology.org/format_2330"
+    }]
+}
